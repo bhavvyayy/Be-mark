@@ -18,10 +18,6 @@ Engage your audience with stunning UI/UX designs enriched by CSS animations and 
 
 Tailored solutions for specific industries including Automobile, Energy, Real Estate, FinTech, and more. We understand the unique challenges and opportunities of each sector, delivering solutions that drive measurable results.
 
-### Node.js Backend Integration
-
-Combine frontend brilliance with robust backend capabilities using Node.js. Our projects are designed for scalability and performance, ensuring seamless integration and functionality.
-
 ### ESLint Rules for Code Quality
 
 Prioritize clean, maintainable code with integrated ESLint rules. We uphold the highest standards of code quality throughout development, enhancing reliability and maintainability.
